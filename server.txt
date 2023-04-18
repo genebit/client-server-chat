@@ -1,0 +1,46 @@
+running server... at port 8000
+waiting for connection...
+
+a connection was made: client 1 joined
+
+waiting for other client to join
+a connection was made: client 2 joined
+
+starting game!
+
+picking the guesser...
+picked client 2 as the guesser!
+
+[init. current attempts for client 1]
+[init. current attempts for client 2]
+[check if the strlen is less than 10]
+[store the word] 
+
+waiting for client 2's guess...
+wrong guess. trying again.
+[client_2_current_attempts--]
+
+sending to client 1. (that guess is wrong).
+
+waiting for client 2's guess...
+wrong guess. trying again.
+[client_2_current_attempts--]
+
+sending to client 1. (that guess is wrong).
+
+waiting for client 2's guess...
+client 2 guessed one of the letters! 
+[changing one of the elements to the arr to be visible]
+
+waiting for client 2's guess...
+client 2 guessed one of the letters! 
+[changing one of the elements to the arr to be visible]
+
+waiting for client 2's guess...
+client 2 guessed the word! 
+ending round...
+adding to board.
+
+restarting round. client 1 is now the guesser.
+[check if the strlen is less than 10]
+[store the word] 
